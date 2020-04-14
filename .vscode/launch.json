@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Day4",
+            "request": "launch",
+            "mainClass": "Day4",
+            "projectName": "AdventOfCode2019_bd5033eb"
+        },
+        {
+            "type": "java",
             "name": "Debug (Launch) - Current File",
             "request": "launch",
             "mainClass": "${file}"
