@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "com.aravdave.App",
+            "projectName": "aocday6"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "aocday6.src.main.java.com.aravdave.App",
+            "projectName": "AdventOfCode2019_bd5033eb"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Practice",
+            "request": "launch",
+            "mainClass": "Practice",
+            "projectName": "AdventOfCode2019_bd5033eb"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Day4",
             "request": "launch",
             "mainClass": "Day4",
