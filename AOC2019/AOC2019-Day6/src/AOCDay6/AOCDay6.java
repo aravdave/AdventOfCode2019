@@ -1,3 +1,5 @@
+//Highly influenced by The Programming Turkey at https://www.youtube.com/user/IProgram4Fun/about
+//However, I have absolute comprehension of this entire program
 package AOCDay6;
 import java.io.*;
 import java.util.*;
