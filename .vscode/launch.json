@@ -6,6 +6,19 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Day8",
+            "request": "launch",
+            "mainClass": "Day8.Day8",
+            "projectName": "AOCDay8"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "App"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - App",
             "request": "launch",
             "mainClass": "com.aravdave.App",
